@@ -3,3 +3,4 @@ uuid = "f257647e-c1b6-4324-8b37-abe493731c45"
 repo = "https://github.com/SuperGrobi/CoolWalksRegistry"
 
 [packages]
+5abba2a6-77e2-4331-9785-93f3fa89e9c9 = { name = "CoolWalksUtils", path = "C/CoolWalksUtils" }
