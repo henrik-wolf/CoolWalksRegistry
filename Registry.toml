@@ -4,3 +4,4 @@ repo = "https://github.com/SuperGrobi/CoolWalksRegistry"
 
 [packages]
 5abba2a6-77e2-4331-9785-93f3fa89e9c9 = { name = "CoolWalksUtils", path = "C/CoolWalksUtils" }
+f47e3ccc-e4ba-4197-93dd-e1f87b2e9c3f = { name = "TreeLoaders", path = "T/TreeLoaders" }
