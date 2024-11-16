@@ -1,6 +1,6 @@
 name = "CoolWalksRegistry"
 uuid = "f257647e-c1b6-4324-8b37-abe493731c45"
-repo = "https://github.com/SuperGrobi/CoolWalksRegistry"
+repo = "https://github.com/henrik-wolf/CoolWalksRegistry"
 
 [packages]
 2f04bb67-2625-497f-843a-ef19b45d8291 = { name = "Folium", path = "F/Folium" }
